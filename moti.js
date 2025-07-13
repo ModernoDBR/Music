@@ -16,31 +16,31 @@ const songs = [
     {
         path: 'm1.mp3',
         displayName: 'Revolution',
-        cover: 'm1.jpg',
+        cover: 'm1.JPG',
         artist: 'The Score',
     },
     {
         path: 'm2.mp3',
         displayName: 'Stronger',
-        cover: 'm2.jpg',
+        cover: 'm2.JPG',
         artist: 'The Score',
     },
     {
         path: 'm3.mp3',
         displayName: 'Unstoppable',
-        cover: 'm3.jpg',
+        cover: 'm3.JPG',
         artist: 'The Score',
     },
     {
         path: 'm4.mp3',
         displayName: 'Fight Back',
-        cover: 'm4.jpg',
+        cover: 'm4.JPG',
         artist: 'NEFFEX',
     },
     {
         path: 'm5.mp3',
         displayName: 'Ride',
-        cover: 'm5.jpg',
+        cover: 'm5.JPG',
         artist: 'Twenty one pilots',
     }
 ];
