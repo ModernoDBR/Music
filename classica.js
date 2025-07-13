@@ -15,7 +15,7 @@ const music = new Audio();
 const songs = [
     {
         path: 'classica1.mp3',
-        displayName: 'Heroic Polonaise',
+        displayName: 'Heroic Polonaise aaa',
         cover: 'classica1.JPG',
         artist: 'Chopin',
     },
