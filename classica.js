@@ -16,13 +16,13 @@ const songs = [
     {
         path: 'classica1.mp3',
         displayName: 'Heroic Polonaise',
-        cover: 'classica1.jpg',
+        cover: 'classica1.JPG',
         artist: 'Chopin',
     },
     {
         path: 'classica2.mp3',
         displayName: 'Chopin',
-        cover: 'is the best',
+        cover: 'classica2.JPG',
         artist: '',
     },
     {
