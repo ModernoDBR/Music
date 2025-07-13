@@ -16,31 +16,31 @@ const songs = [
     {
         path: 't1.mp3',
         displayName: 'Jesus',
-        cover: 't1.jpg',
+        cover: 't1.JPG',
         artist: 'Tosukai',
     },
     {
         path: 't2.mp3',
         displayName: 'Mortals Funk Remix',
-        cover: 't2.jpg',
+        cover: 't2.JPG',
         artist: 'LXNGVX & Warriyo',
     },
     {
         path: 't3.mp3',
         displayName: 'WARNING',
-        cover: 't3.jpg',
+        cover: 't3.JPG',
         artist: 'MC ORSEN',
     },
     {
         path: 't4.mp3',
         displayName: 'Dead Inside',
-        cover: 't4.jpg',
+        cover: 't4.JPG',
         artist: 'АДЛИН',
     },
     {
         path: 't5.mp3',
         displayName: 'Tak Tak Funk',
-        cover: 't5.jpg',
+        cover: 't5.JPG',
         artist: 'chipbagov, SCARIONIX, IMMORTAL PLAYA',
     }
 ];
