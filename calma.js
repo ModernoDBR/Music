@@ -16,37 +16,37 @@ const songs = [
     {
         path: 'calma1.mp3',
         displayName: 'Falling Down',
-        cover: 'calma1.jpg',
+        cover: 'calma1.JPG',
         artist: 'Lil peep & xxxtentacion',
     },
     {
         path: 'calma2.mp3',
         displayName: 'Softcore',
-        cover: 'calma2.jpg',
+        cover: 'calma2.JPG',
         artist: 'The Neighbourhood',
     },
     {
         path: 'calma3.mp3',
         displayName: 'Falling',
-        cover: 'calma3.jpg',
+        cover: 'calma3.JPG',
         artist: 'Trevor Daniel',
     },
     {
         path: 'calma4.mp3',
         displayName: 'Nevada',
-        cover: 'calma4.jpg',
+        cover: 'calma4.JPG',
         artist: 'Vicetone',
     },
     {
         path: 'calma5.mp3',
         displayName: 'Pangeia',
-        cover: 'calma5.jpg',
+        cover: 'calma5.JPG',
         artist: 'Fabio Brazza',
     },
     {
         path: 'calma6.mp3',
         displayName: 'The Days',
-        cover: 'calma6.jpg',
+        cover: 'calma6.JPG',
         artist: 'Notion Remix',
     }
 ];
