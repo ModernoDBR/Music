@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecionando</title>
+    <style>
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+
+        body {
+            background-color: black;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+
+        .bola {
+            width: 100px;
+            height: 100px;
+            border: 12px solid #f3f3f3;
+            border-top: 12px solid #3498db;
+            border-radius: 50%;
+            animation: load 2s linear infinite;
+        }
+
+        @keyframes load {
+            0% {
+                transform: rotate(0deg);
+            }
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        h3 {
+            color: white;
+            margin-top: 20px;
+            font-family: 'Ubuntu',sans-serif;
+        }
+    </style>
+</head>
+<body onload="go()">
+    <div class="bola"></div>
+    <h3>Feito por Antonio Henrique</h3>
+</body>
+<script>
+    function go(){
+           setTimeout(() => {
+            window.location.href = "home.html"
+           }, 4000);
+        }
+</script>
+</html>
