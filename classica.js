@@ -28,13 +28,13 @@ const songs = [
     {
         path: 'classica3.mp3',
         displayName: 'Van Gogh',
-        cover: 'classica3.jpg',
+        cover: 'classica3.JPG',
         artist: 'Virginio Aiello',
     },
     {
         path: 'classica4.mp3',
         displayName: 'Spanish Romance',
-        cover: 'classica4.jpg',
+        cover: 'classica4.JPG',
         artist: 'played by Beatrix Kovacs ',
     }
 ];
