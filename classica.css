@@ -47,6 +47,7 @@ body{
     border-radius: 20px;
     box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
     transition: all 0.5s ease;
+    opacity:0.4;
 }
 
 .container:hover{
@@ -330,4 +331,5 @@ h3{
     font-size: 50px;
 }
 }
+
 
