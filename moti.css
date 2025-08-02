@@ -96,7 +96,7 @@ h3{
 }
 
 .player-progress{
-    background-color: #ffffff;
+    background-color: rgba(255, 255, 255, 0.1);
     border-radius: 5px;
     cursor: pointer;
     margin: 40px 20px 25px;
