@@ -118,7 +118,7 @@ document.addEventListener('keydown', (event) => {
     togglePlay();
     }
      switch(event.key){
-    case 'space':
+    case ' ':
     togglePlay();
     }
     switch(event.key){
@@ -133,4 +133,5 @@ document.addEventListener('keydown', (event) => {
 })
 
 loadMusic(songs[musicIndex]);
+
 
