@@ -124,6 +124,10 @@ document.addEventListener('keydown', (event) => {
     togglePlay();
     }
     switch(event.key){
+    case ' ':
+    togglePlay();
+    }
+    switch(event.key){
     case 'j':
     changeMusic(-1);
     }
@@ -135,3 +139,4 @@ document.addEventListener('keydown', (event) => {
 })
 
 loadMusic(songs[musicIndex]);
+
